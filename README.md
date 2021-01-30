@@ -7,6 +7,6 @@ Run Locally
 
 //$ npm install
 
-//$ node app.js
+//$ node index.js
 
-Have fun exploring the web app!
+Have fun generating random numbers!
