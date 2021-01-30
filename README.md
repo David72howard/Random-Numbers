@@ -3,7 +3,7 @@
 
 Run Locally
 
-//$ git clone https://github.com/David72howard/FullStackWebDev.git
+//$ git clone https://github.com/David72howard/Random-Numbers.git
 
 //$ npm install
 
